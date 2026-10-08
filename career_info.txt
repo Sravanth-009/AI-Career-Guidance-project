@@ -1,0 +1,34 @@
+CAREER: Data Scientist
+Skills: Python, Statistics, SQL, Machine Learning, Data Visualization
+Education: B.Tech/B.Sc in CS, Maths, Statistics; Master's is a plus
+Roadmap: Learn Python -> Statistics -> Pandas/NumPy -> ML (scikit-learn) -> Projects -> Kaggle -> Internship
+Entry Roles: Data Analyst, Junior Data Scientist
+Salary Range (India): 6-12 LPA entry level
+Certifications: Google Data Analytics, IBM Data Science
+
+CAREER: Web Developer
+Skills: HTML, CSS, JavaScript, React, Node.js, Git, Databases
+Education: Any degree; strong portfolio matters most
+Roadmap: HTML/CSS -> JavaScript -> React -> Backend (Node/Express) -> Databases -> Deploy 3 projects
+Entry Roles: Frontend Developer, Full Stack Intern
+Salary Range (India): 4-9 LPA entry level
+Certifications: Meta Front-End Developer, freeCodeCamp
+
+CAREER: Cybersecurity Analyst
+Skills: Networking, Linux, Security Tools, Ethical Hacking basics
+Education: B.Tech CS/IT preferred
+Roadmap: Networking basics -> Linux -> Security fundamentals -> CTF practice -> Certification
+Entry Roles: SOC Analyst, Security Intern
+Salary Range (India): 5-10 LPA entry level
+Certifications: CompTIA Security+, CEH
+
+CAREER: AI/ML Engineer
+Skills: Python, Deep Learning, PyTorch/TensorFlow, MLOps, LangChain
+Education: B.Tech CS/AI; strong maths foundation
+Roadmap: Python -> ML basics -> Deep Learning -> LLMs and RAG -> Deploy models -> Portfolio
+Entry Roles: ML Intern, Junior AI Engineer
+Salary Range (India): 7-15 LPA entry level
+Certifications: DeepLearning.AI, Google ML Engineer
+
+GENERAL ADVICE
+Build projects, contribute to GitHub, write a clear resume, practice mock interviews, and network on LinkedIn.
